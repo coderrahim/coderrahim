@@ -3,11 +3,13 @@
 
 <br> 
 
-- 🔭 I’m currently working on **MERN Stack**
+- I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Next.js**
+- I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [CoderRahim](github.com/coderrahim)
+- I’m currently Studying **Diploma In Engineering**
+
+- All of my projects are available at [CoderRahim](github.com/coderrahim)
 
 <br>
 
@@ -15,7 +17,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coderrahim&theme=sunset-gradient&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
-
 
 <!-- SOCIAL LINK -->
 <h3 align="left">Contact with Me:</h3>

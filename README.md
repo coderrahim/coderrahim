@@ -35,7 +35,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrahim&show_icons=true&locale=en&layout=compact" alt="coderrahim" /></p>
 
-<p align="center">
+<div align="center">
 
 ![Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderrahim&show_icons=true&theme=outrun)
-</p>
+</div>

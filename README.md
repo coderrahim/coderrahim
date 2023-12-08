@@ -34,7 +34,7 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrahim&show_icons=true&locale=en&layout=compact" alt="coderrahim" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrahim&show_icons=true&locale=en&layout=compact" alt="coderrahim" />
 
 <br>
 
